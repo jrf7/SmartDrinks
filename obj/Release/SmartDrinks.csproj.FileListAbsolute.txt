@@ -1,0 +1,12 @@
+E:\Training\Csharp\SmartDrinks\bin\Release\SmartDrinks.txt
+E:\Training\Csharp\SmartDrinks\bin\Release\SmartDrinks.exe.config
+E:\Training\Csharp\SmartDrinks\bin\Release\SmartDrinks.exe
+E:\Training\Csharp\SmartDrinks\bin\Release\SmartDrinks.pdb
+E:\Training\Csharp\SmartDrinks\obj\Release\SmartDrinks.csproj.AssemblyReference.cache
+E:\Training\Csharp\SmartDrinks\obj\Release\SmartDrinks.csproj.SuggestedBindingRedirects.cache
+E:\Training\Csharp\SmartDrinks\obj\Release\SmartDrinks.FormMain.resources
+E:\Training\Csharp\SmartDrinks\obj\Release\SmartDrinks.Properties.Resources.resources
+E:\Training\Csharp\SmartDrinks\obj\Release\SmartDrinks.csproj.GenerateResource.cache
+E:\Training\Csharp\SmartDrinks\obj\Release\SmartDrinks.csproj.CoreCompileInputs.cache
+E:\Training\Csharp\SmartDrinks\obj\Release\SmartDrinks.exe
+E:\Training\Csharp\SmartDrinks\obj\Release\SmartDrinks.pdb

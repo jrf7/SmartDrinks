@@ -1,0 +1,10 @@
+﻿Beer,Budweiser,true,5.0
+Beer,Samuel Adams, true, 5.1
+Beer,Coors Light, true, 4.99
+Juice,Grape,false,grapes
+Juice,Orange,false,oranges
+Juice,Apple,false,apples
+Juice,Pear,false,pears
+Soda,Pepsi,true
+Soda,Coke,true
+Soda,Monster,false
